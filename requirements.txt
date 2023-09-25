@@ -54,4 +54,4 @@ uwsgi==2.0.19.1
 Werkzeug==2.2.3
 wrapt==1.12.1
 zipp==3.1.0
-gevent==20.6.2
+gevent==23.9.1
